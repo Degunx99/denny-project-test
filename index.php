@@ -5,12 +5,13 @@
     <link rel="stylesheet" type = "text/css" href = "css_file.css">
 </head>
 <body class ="d-flex">
-    <h1>Welcome to HTML page 101</h1>
+    <h5>Welcome to HTML page 101</h5>
     <div class = "d-flex"> 
         <span id = "show_text"></span>
         <br>
         <textarea name="" id="text_input" cols="30" rows="10" placeholder="input your text here"></textarea>
     </div>
+    <p>muahahahahahaha</p>
 </body>
 <script src="text/javascript" src="script.js"></script>
 </html>
