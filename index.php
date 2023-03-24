@@ -5,7 +5,7 @@
     <link rel="stylesheet" type = "text/css" href = "css_file.css">
 </head>
 <body class ="d-flex">
-    <h5>Welcome to HTML page 101</h5>
+    <h3>Welcome to HTML page 202</h3>
     <div class = "d-flex"> 
         <span id = "show_text"></span>
         <br>
